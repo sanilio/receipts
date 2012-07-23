@@ -1,15 +1,17 @@
 Track and monitor receipts and spending.
-CRUD operations functional
+CRUD operations functional.
 
 To do:
 
-	fix category sp
-	add category drop down
-	list receipts w/o descr.
+	fix category sp,
 	
-	develop totaling mechanism
-	develop pie chart
+	add category drop down,
 	
-	make entry/update fields robust
+	list receipts w/o descr.,
+	
+	develop totaling mechanism,
+	develop pie chart,
+	
+	make entry/update fields robust,
 		error checking; ajax?
 	
