@@ -1,0 +1,23 @@
+receipt model
+
+string catergory:
+
+	rent
+
+	utilities
+
+	groceries
+
+	transportation
+	
+	restaurants
+	
+	entertainment
+		
+string payee	
+
+text   description
+
+date   date (mm/dd/yyyy)
+
+float  amount

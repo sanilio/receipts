@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  catergory: MyString
+  payee: MyString
+  description: MyText
+  date: 2012-07-22
+  amount: 9.99
+
+two:
+  catergory: MyString
+  payee: MyString
+  description: MyText
+  date: 2012-07-22
+  amount: 9.99
